@@ -39,4 +39,5 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 https://ams.creativecdn.com/*
-https://googleads.g.doubleclick.net
+https://googleads.g.doubleclick.net/*
+https://ams.creativecdn.com/*
