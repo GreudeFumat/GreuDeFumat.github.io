@@ -41,3 +41,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 https://ams.creativecdn.com/*
 https://googleads.g.doubleclick.net/*
 https://ams.creativecdn.com/*
+https://adclick.g.doubleclick.net/*
